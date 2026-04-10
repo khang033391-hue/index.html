@@ -16,7 +16,7 @@
 
     <p>Children's Privacy: This game is intended for general audiences and does not knowingly collect personal data from children.</p>
 
-    <p>If you have any questions, contact us at: your-email@gmail.com</p>
+    <p>If you have any questions, contact us at: khang033391@gmail.com</p>
 </body>
 </html>
 This app is designed for children and families and uses age-appropriate ads.
