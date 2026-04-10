@@ -20,3 +20,13 @@
 </body>
 </html>
 This app is designed for children and families and uses age-appropriate ads.
+Data Deletion Request
+
+If you want to request deletion of your personal data, you can contact us at:
+
+Email: khang033391@gmail.com
+
+We will delete your data within a reasonable time after receiving your request.
+We do not store personal data directly. However, third-party services such as ads providers may collect data.
+
+Users can contact us anytime to request deletion of their data.
