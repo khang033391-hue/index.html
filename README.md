@@ -22,7 +22,7 @@
 This app is designed for children and families and uses age-appropriate ads.
 <h2>Data Deletion Request</h2>
 <p>If you want to request deletion of your personal data, you can contact us at:</p>
-<p>Email: your@email.com</p>
+<p>Email: khang033391@gmail.com</p>
 <p>We will process your request and delete your data within a reasonable time.</p>
 
 <h2>Third Party Services</h2>
